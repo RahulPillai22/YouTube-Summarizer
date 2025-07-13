@@ -76,17 +76,17 @@ The system:
 
 ## 📁 Project Structure
 
-youtube-summarizer/
-├── agents/
-│   ├── fetcher.py
-│   ├── transcriber.py
-│   ├── summarizer.py
-│   ├── reviewer.py
-│   └── formatter.py
-├── schema.py
-├── main.py
-├── .env
-└── README.md
+youtube-summarizer/  
+├── agents/  
+│   ├── fetcher.py  
+│   ├── transcriber.py  
+│   ├── summarizer.py  
+│   ├── reviewer.py  
+│   └── formatter.py  
+├── schema.py  
+├── main.py  
+├── .env  
+└── README.md  
 
 ## 📈 Goal
 
